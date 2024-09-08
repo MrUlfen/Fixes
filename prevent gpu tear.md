@@ -17,10 +17,6 @@ now that being said this is important what type of screen/monitor you have and w
 
 
 
-
-
-
-
 # how to cap fps in **Nvidia Controlpanel**
 [HOW TO CAP FPS IN GAMES USING NVIDIA CONTROLPANEL](image.png)
 > 1. Open **Nvidia Controlpanel** by right clicking the background screen or go down on the lower down right corner and klick the **UP-ARROW** then open **Nvidia Controlpanel**
