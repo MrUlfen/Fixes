@@ -1,2 +1,21 @@
-# RED FLAGS
-- MORE TO COME IT'S UNDER DEVELOPMENT!!
+C:\Users\simen\Downloads\RED_FLAGS.png
+
+
+
+C:\Users\simen\Downloads\UNDER_DEVELOPMENTS.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Static Badge](https://img.shields.io/badge/LAST%20COMMIT%20-%2009.09.24%20-%20?style=flat)
