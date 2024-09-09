@@ -1,8 +1,6 @@
-C:\Users\simen\Downloads\RED_FLAGS.png
+![Red Flags](images/RED_FLAGS.png)
 
-
-
-C:\Users\simen\Downloads\UNDER_DEVELOPMENTS.png
+![Under Developments](images/UNDER_DEVELOPMENTS.png)
 
 
 
